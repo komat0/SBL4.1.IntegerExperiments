@@ -8,6 +8,7 @@ public class Main {
         sumDigits(5059191);
 
         System.out.println("=======================");
+
         int maxValueInteger = Integer.MAX_VALUE;
         int minValueInteger = Integer.MIN_VALUE;
         short maxValueShort = Short.MAX_VALUE;
